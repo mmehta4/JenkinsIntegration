@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/mmehta4/JenkinsIntegration/issues"
   },
-  "homepage": "https://github.com/mmehta4/JenkinsIntegration#readme"
+  "homepage": "https://github.com/mmehta4/JenkinsIntegration#readme",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-redux": "^5.0.7"
+  }
 }
