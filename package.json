@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mmehta4/JenkinsIntegration#readme",
   "dependencies": {
+    "lodash": "^4.17.10",
     "react": "^16.4.1",
     "react-bootstrap": "^0.32.1",
     "react-dom": "^16.4.1",
