@@ -8,6 +8,10 @@
   "main": "build/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
+  "private": true,
+  "publishConfig": {
+    "registry": "http:/http://192.168.2.10:8081/repository/rbc/"
+  },
   "engines": {
     "node": ">=8",
     "npm": ">=5"
